@@ -1,0 +1,13 @@
+C:\Users\sebastian.stavenek\Documents\Programmering\HangmanECS\bin\Debug\netcoreapp3.1\HangmanECS.exe
+C:\Users\sebastian.stavenek\Documents\Programmering\HangmanECS\bin\Debug\netcoreapp3.1\HangmanECS.deps.json
+C:\Users\sebastian.stavenek\Documents\Programmering\HangmanECS\bin\Debug\netcoreapp3.1\HangmanECS.runtimeconfig.json
+C:\Users\sebastian.stavenek\Documents\Programmering\HangmanECS\bin\Debug\netcoreapp3.1\HangmanECS.runtimeconfig.dev.json
+C:\Users\sebastian.stavenek\Documents\Programmering\HangmanECS\bin\Debug\netcoreapp3.1\HangmanECS.dll
+C:\Users\sebastian.stavenek\Documents\Programmering\HangmanECS\bin\Debug\netcoreapp3.1\HangmanECS.pdb
+C:\Users\sebastian.stavenek\Documents\Programmering\HangmanECS\obj\Debug\netcoreapp3.1\HangmanECS.csprojAssemblyReference.cache
+C:\Users\sebastian.stavenek\Documents\Programmering\HangmanECS\obj\Debug\netcoreapp3.1\HangmanECS.AssemblyInfoInputs.cache
+C:\Users\sebastian.stavenek\Documents\Programmering\HangmanECS\obj\Debug\netcoreapp3.1\HangmanECS.AssemblyInfo.cs
+C:\Users\sebastian.stavenek\Documents\Programmering\HangmanECS\obj\Debug\netcoreapp3.1\HangmanECS.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.stavenek\Documents\Programmering\HangmanECS\obj\Debug\netcoreapp3.1\HangmanECS.dll
+C:\Users\sebastian.stavenek\Documents\Programmering\HangmanECS\obj\Debug\netcoreapp3.1\HangmanECS.pdb
+C:\Users\sebastian.stavenek\Documents\Programmering\HangmanECS\obj\Debug\netcoreapp3.1\HangmanECS.genruntimeconfig.cache
